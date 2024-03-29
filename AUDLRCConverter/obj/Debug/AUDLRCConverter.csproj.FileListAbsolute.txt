@@ -1,0 +1,11 @@
+C:\Users\Piotr\Desktop\audiostreamer2\AUDLRCConverter\AUDLRCConverter\bin\Debug\AUDLRCConverter.exe.config
+C:\Users\Piotr\Desktop\audiostreamer2\AUDLRCConverter\AUDLRCConverter\bin\Debug\AUDLRCConverter.exe
+C:\Users\Piotr\Desktop\audiostreamer2\AUDLRCConverter\AUDLRCConverter\bin\Debug\AUDLRCConverter.pdb
+C:\Users\Piotr\Desktop\audiostreamer2\AUDLRCConverter\AUDLRCConverter\obj\Debug\AUDLRCConverter.csproj.AssemblyReference.cache
+C:\Users\Piotr\Desktop\audiostreamer2\AUDLRCConverter\AUDLRCConverter\obj\Debug\AUDLRCConverter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Piotr\Desktop\audiostreamer2\AUDLRCConverter\AUDLRCConverter\obj\Debug\AUDLRCConverter.Form1.resources
+C:\Users\Piotr\Desktop\audiostreamer2\AUDLRCConverter\AUDLRCConverter\obj\Debug\AUDLRCConverter.Properties.Resources.resources
+C:\Users\Piotr\Desktop\audiostreamer2\AUDLRCConverter\AUDLRCConverter\obj\Debug\AUDLRCConverter.csproj.GenerateResource.cache
+C:\Users\Piotr\Desktop\audiostreamer2\AUDLRCConverter\AUDLRCConverter\obj\Debug\AUDLRCConverter.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Desktop\audiostreamer2\AUDLRCConverter\AUDLRCConverter\obj\Debug\AUDLRCConverter.exe
+C:\Users\Piotr\Desktop\audiostreamer2\AUDLRCConverter\AUDLRCConverter\obj\Debug\AUDLRCConverter.pdb

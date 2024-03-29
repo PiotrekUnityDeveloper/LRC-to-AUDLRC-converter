@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AUDLRCConverter", "AUDLRCConverter\AUDLRCConverter.csproj", "{47A5672A-56B1-4730-B2AE-7A94F5DF7019}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47A5672A-56B1-4730-B2AE-7A94F5DF7019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47A5672A-56B1-4730-B2AE-7A94F5DF7019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47A5672A-56B1-4730-B2AE-7A94F5DF7019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47A5672A-56B1-4730-B2AE-7A94F5DF7019}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA3800DA-A271-461C-ADB9-94D0E77BF721}
+	EndGlobalSection
+EndGlobal
